@@ -1,5 +1,8 @@
 body {
   background-image: url("../res/image.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 .rhm {
   text-align: center;
