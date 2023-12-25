@@ -32,8 +32,8 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }*/
-a:link,
-a:visited {
+.c a:link,
+.c a:visited {
   color: white;
   background-color: blue;
   padding: 15px 25px;
@@ -41,7 +41,7 @@ a:visited {
   text-decoration: none;
   display: inline-block;
 }
-a:hover,
-a:active {
+.c a:hover,
+.c a:active {
   background-color: red;
 }
