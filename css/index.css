@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-image: url("../res/image.jpg");
 }
 .rhm {
   text-align: center;
@@ -14,6 +14,9 @@ body {
 .image {
   width: 128px;
   height: 128px;
+}
+blockquote {
+  color: green;
 }
 /* .img {
   float: left;
