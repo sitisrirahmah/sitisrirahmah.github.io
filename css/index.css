@@ -11,6 +11,7 @@ body {
 .rhm p {
   background-color: gray;
 }
+/*
 a:link {
   color: green;
   background-color: transparent;
@@ -30,4 +31,17 @@ a:active {
   color: yellow;
   background-color: transparent;
   text-decoration: underline;
+}*/
+a:link,
+a:visited {
+  color: white;
+  background-color: blue;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover,
+a:active {
+  background-color: red;
 }
