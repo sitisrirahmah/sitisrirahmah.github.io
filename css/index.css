@@ -11,12 +11,14 @@ body {
 .rhm p {
   background-color: gray;
 }
-blockquote {
-  border: 2px solid dodgerblue;
-}
 .image {
-  width: 300px;
-  height: 400px;
+  width: 128px;
+  height: 128px;
+}
+.img {
+  float: right;
+  width: 42px;
+  height: 42px;
 }
 /*
 a:link {
