@@ -11,6 +11,13 @@ body {
 .rhm p {
   background-color: gray;
 }
+blockquote {
+  border: 2px solid dodgerblue;
+}
+.image {
+  width: 300px;
+  height: 400px;
+}
 /*
 a:link {
   color: green;
