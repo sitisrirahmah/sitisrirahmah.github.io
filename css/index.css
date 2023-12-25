@@ -15,11 +15,11 @@ body {
   width: 128px;
   height: 128px;
 }
-.img {
-  float: right;
+/* .img {
+  float: left;
   width: 42px;
   height: 42px;
-}
+} */
 /*
 a:link {
   color: green;
