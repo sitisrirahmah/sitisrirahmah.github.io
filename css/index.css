@@ -45,3 +45,16 @@ a:active {
 .c a:active {
   background-color: red;
 }
+#clear a:link,
+#clear a:visited {
+  color: white;
+  background-color: blue;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+#clear a:hover,
+#clear a:active {
+  background-color: red;
+}
