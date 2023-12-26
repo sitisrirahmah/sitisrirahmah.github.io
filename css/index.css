@@ -14,6 +14,9 @@ body {
 }
 blockquote {
   color: green;
+  border: 2px solid #dddddd;
+  padding: 30px;
+  margin: 50px;
 }
 .image {
   width: 38px;
