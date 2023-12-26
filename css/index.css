@@ -59,6 +59,12 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
+th,
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
 #clear a:link,
 #clear a:visited {
   background-color: blue;
