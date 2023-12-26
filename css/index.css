@@ -1,8 +1,9 @@
 body {
-  background-image: url("../res/image.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  /* background-image: url("../res/image.jpg"); */
+  /* background-repeat: no-repeat; */
+  /* background-attachment: fixed; */
+  /* background-size: cover; */
+  background-color: #fff;
 }
 .rhm {
   text-align: center;
@@ -10,10 +11,6 @@ body {
 .rhm h1 {
   background-color: dodgerblue;
   color: white;
-}
-.image {
-  width: 128px;
-  height: 128px;
 }
 blockquote {
   color: green;
@@ -56,6 +53,11 @@ a:active {
 .c a:hover,
 .c a:active {
   background-color: red;
+}
+table {
+  font-family: Arial, Sans-Serif;
+  border-collapse: collapse;
+  width: 100%;
 }
 #clear a:link,
 #clear a:visited {
