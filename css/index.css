@@ -75,8 +75,8 @@ td {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
-#clear a:link,
-#clear a:visited {
+.ce a:link,
+.ce a:visited {
   background-color: blue;
   color: white;
   padding: 5px 10px;
@@ -84,7 +84,7 @@ tr:nth-child(even) {
   text-decoration: none;
   display: inline-block;
 }
-#clear a:hover,
-#clear a:active {
+.ce a:hover,
+.ce a:active {
   background-color: red;
 }
