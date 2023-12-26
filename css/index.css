@@ -11,9 +11,6 @@ body {
   background-color: dodgerblue;
   color: white;
 }
-.rhm p {
-  background-color: gray;
-}
 .image {
   width: 128px;
   height: 128px;
@@ -49,9 +46,9 @@ a:active {
 }*/
 .c a:link,
 .c a:visited {
-  color: white;
   background-color: blue;
-  padding: 15px 25px;
+  color: white;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -62,9 +59,9 @@ a:active {
 }
 #clear a:link,
 #clear a:visited {
-  color: white;
   background-color: blue;
-  padding: 15px 25px;
+  color: white;
+  padding: 5px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
