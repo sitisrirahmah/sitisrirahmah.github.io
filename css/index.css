@@ -22,11 +22,12 @@ blockquote {
   width: 38px;
   height: 38px;
 }
-/* .img {
-  float: left;
-  width: 42px;
-  height: 42px;
-} */
+.img {
+  border: 10px groove #ffd700;
+  margin: 50px;
+  padding: 30px;
+  width: 50%;
+}
 /*
 a:link {
   color: green;
