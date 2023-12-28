@@ -24,8 +24,8 @@ blockquote {
 }
 .img {
   border: 10px groove #ffd700;
-  margin: 50px;
-  padding: 30px;
+  /* margin: 25px 25px; */
+  /* padding: 30px; */
   width: 50%;
 }
 /*
