@@ -8,10 +8,10 @@
 .rhm {
   text-align: center;
 }
-.rhm h1 {
+/* .rhm h1 {
   background-color: dodgerblue;
   color: white;
-}
+} */
 blockquote {
   color: green;
   border: 2px solid #dddddd;
