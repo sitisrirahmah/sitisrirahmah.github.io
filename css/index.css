@@ -59,56 +59,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 /**/
-.a {
-  border: 10px dotted #dddddd;
-  margin: 50px;
-  padding: 30px;
-}
-.b {
-  border: 10px dashed #dddddd;
-  margin: 50px;
-  padding: 30px;
-}
-.c {
-  border: 10px solid #dddddd;
-  margin: 50px;
-  padding: 30px;
-}
-.d {
-  border: 10px double #dddddd;
-  margin: 50px;
-  padding: 30px;
-}
-.e {
-  border: 10px groove #dddddd;
-  margin: 50px;
-  padding: 30px;
-}
-.f {
-  border: 10px ridge #dddddd;
-  margin: 50px;
-  padding: 30px;
-}
-.g {
-  border: 10px inset #dddddd;
-  margin: 50px;
-  padding: 30px;
-}
-.h {
-  border: 10px outset #dddddd;
-  margin: 50px;
-  padding: 30px;
-}
-.i {
-  border: 10px none #dddddd;
-  margin: 50px;
-  padding: 30px;
-}
-.j {
-  border: 10px hidden #dddddd;
-  margin: 50px;
-  padding: 30px;
-}
 .ce a:link,
 .ce a:visited {
   background-color: blue;
