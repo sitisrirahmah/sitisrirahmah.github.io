@@ -5,8 +5,7 @@ function startEverything() {
   setTimeout(a, 100);
   //setTimeout(dialog, 4000);
 }
-alert("jangan lupa like dan like");
-alert("Rosi Tresia de raizel");
+alert("Selamat Tahun Baru 2024 😊🎇🎆🎉🎊");
 function dialog() {}
 function countdown() {
   var display = document.getElementsByClassName("countdown");
